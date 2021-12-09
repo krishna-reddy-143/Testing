@@ -1,0 +1,19 @@
+---
+  name: "DevOps Journey"
+  subscribers: 900
+  pi: 3.14159
+  topics:
+    - DevOps
+    - Programming
+    - Linus
+    - IT Careers
+  Playlists:
+      Docker Course:
+        link: https://www.youtube.com/results?search_query=jabardasth+latest+episode
+        videos: 8
+      Ansible Course:
+        links: https://www.youtube.com/watch?v=ut8o7qpyg5s
+        videos: 8
+----
+
+  
